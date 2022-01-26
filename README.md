@@ -5,7 +5,7 @@
 OpenCore Packager is a utility that allows you to create an installable macOS package from your EFI folder.
 The advantage is that you don't have to mount the EFi partition and the program can be used on a macOS SIP enabled system.
 
-### Download ➤ [OpenCore Packager](https://github.com/chris1111/Notarized-RT2870USBWirelessDriver/releases/tag/V1)
+### Download ➤ [OpenCore Packager](https://github.com/chris1111/OpenCore-Packager/raw/Master/OpenCore%20Packager.zip)
 
 Follow this Video ⇩
 

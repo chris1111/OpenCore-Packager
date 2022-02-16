@@ -9,6 +9,8 @@ The advantage is that you don't have to mount the EFi partition and the program 
 
 ### Download ➤ [OpenCore Packager](https://github.com/chris1111/OpenCore-Packager/raw/Master/OpenCore%20Packager.zip)
 
+### Looking for ➤ [Legacy-OpenCore-Packager](https://github.com/chris1111/Legacy-OpenCore-Packager)
+
 ### Looking for ➤ [Clover Packager](https://github.com/chris1111/Clover-Packager)
 
 Follow this Video ⇩
